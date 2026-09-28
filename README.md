@@ -19,11 +19,20 @@ PCB photos:
 <img width="1376" height="936" alt="Screenshot 2026-09-23 134752" src="https://github.com/user-attachments/assets/c899a03e-4a9b-4658-b632-a7a24c2c175c" />
 
 assembly guild: 
-this is a sandwich style keyboard, meaning it is assembled in layers into a main base. The pcb slides easily into the main compartment followed by the switch plate, which the key switches click into. the keycaps and bezel finally lay on top and are screwed into place. 
+1. Solder all parts onto PCB (including capacitors, diodes and hot swap sockets)
+2. Flash the microcontroller (plug into computer and use the VIA app)
+3. lower the pcb into the casing
+4. attack stablizers to the underside of the switch plate
+5. place switch plate on top of casing (be careful to align the keys)
+6. press all 69 keys into their positions
+7. place bezel on top of switch plate and screw into place (9 M3 16mm screws)
+8. click keycaps onto key switches
+
+
 Pictures of assembly design process below: 
 <img width="1090" height="390" alt="image" src="https://github.com/user-attachments/assets/360135db-9f00-4a4c-987c-7e2b63983f19" />
 
-Bill of materials (will likely order +1 capacitor, diode, or resistor just incase):
+Bill of materials:
 https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3TIsw/edit?usp=sharing 
 | Id        | Designator                                                                                                              | Footprint                           | Quantity                                                                                      | Designation                   | Link                                                                                          |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :-------------------------------------------------------------------------------------------- | :---------------------------- | :-------------------------------------------------------------------------------------------- |
