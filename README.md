@@ -1,4 +1,4 @@
-# 65-keyboard
+# Pebble the 65% keyboard
 A 65% keyboard with fully custom parts designed using KiCAD and Solidworks. Made with a resin case, aluminum switch plate and soldered Epomaker silent keyswitches. 
 This project is me introduction to Solidworks as someone preparing for a new robotics season, I'm not exactly a keyboard enthusiast (I might be becoming one) so I went with the essential 65% in order to keep things compact. 
 features:
