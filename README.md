@@ -20,7 +20,7 @@ PCB photos:
 
 assembly guild: 
 1. Solder all parts onto PCB (including capacitors, diodes and hot swap sockets)
-2. Flash the microcontroller (plug into computer and use the VIA app)
+2. Flash the microcontroller (Code is in "Code" folder)
 3. lower the pcb into the casing
 4. attack stablizers to the underside of the switch plate
 5. place switch plate on top of casing (be careful to align the keys)
