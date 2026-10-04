@@ -1,6 +1,7 @@
 # Pebble the 65% keyboard
 A 65% keyboard with fully custom parts designed using KiCAD and Solidworks. Made with a resin case, aluminum switch plate and hot swap Epomaker silent keyswitches. 
-This project is me introduction to Solidworks as someone preparing for a new robotics season, I'm not exactly a keyboard enthusiast (I might be becoming one) so I went with the essential 65% in order to keep things compact. 
+This project is me introduction to Solidworks as someone preparing for a new robotics season, I'm not exactly a keyboard enthusiast (I might be becoming one) so I went with the essential 65% in order to keep things compact yet still having all the necessary (and fun) keys. I named her pebble because of her smaller size, and cutesy frame design. 
+In early renditions, Pebble had a side bar intended for stickers but with more adjustments i decided on a more compact under the spacebar component set up in order to make many of my calculations easier and lower risk of mistakes. 
 features:
 - 65% QWERTY layout
 - Sandwich style assembly
@@ -63,7 +64,7 @@ https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3T
 |                               |                                                                                                                         |                                     |             |                                                                                                               |          |                                                                                                   |
 | Total: 245.66                 |                                                                                                                         |                                     |             |                                                                                                               |          |                                                                                                   |
 
-
+not included in BOM: Soldering iron, Flux, Solder, Wicks, Fume extractor
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
