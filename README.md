@@ -14,6 +14,8 @@ features:
 CAD photos:
 <img width="1692" height="736" alt="Screenshot 2026-09-23 135233" src="https://github.com/user-attachments/assets/03ef8f03-9678-4b7b-8c7c-2a08ce149c83" />
 <img width="1536" height="836" alt="Screenshot 2026-09-23 005843" src="https://github.com/user-attachments/assets/1f91d7c1-1839-4681-b785-2610dd9647b9" />
+<img width="1084" height="424" alt="Screenshot 2026-09-29 185807" src="https://github.com/user-attachments/assets/0c272561-7c0d-4330-880e-dca3fb140cb7" />
+
 PCB photos:
 <img width="1470" height="560" alt="Screenshot 2026-09-23 020906" src="https://github.com/user-attachments/assets/329aec09-4aad-4eb6-9eb5-9889cfae54dd" />
 <img width="1200" height="484" alt="Screenshot 2026-09-28 162350" src="https://github.com/user-attachments/assets/59cabea0-6b74-4dc7-92e0-55c2a8f9d6e6" />
