@@ -1,7 +1,7 @@
 # Pebble the 65% keyboard
 A 65% keyboard with fully custom parts designed using KiCAD and Solidworks. Made with a resin case, aluminum switch plate and hot swap Epomaker silent keyswitches. 
-This project is me introduction to Solidworks as someone preparing for a new robotics season, I'm not exactly a keyboard enthusiast (I might be becoming one) so I went with the essential 65% in order to keep things compact yet still having all the necessary (and fun) keys. I named her pebble because of her smaller size, and cutesy frame design. 
-In early renditions, Pebble had a side bar intended for stickers but with more adjustments i decided on a more compact under the spacebar component set up in order to make many of my calculations easier and lower risk of mistakes. 
+This project is my introduction to Solidworks as someone preparing for a new robotics season, When i started this project, i knew little about keyboards so I went with the essential 65% in order to keep things compact yet still having all the necessary keys, ensuring to include arrows for gaming. I named her pebble because of her smaller size, and cutesy frame design as well as the nature inspired look i origanlly had for her. 
+Pebble originally had a side bar intended for stickers but with more adjustments i decided on a more compact under the spacebar component set up in order to make many of my calculations easier and lower risk of mistakes. 
 features:
 - 65% QWERTY layout
 - Sandwich style assembly
