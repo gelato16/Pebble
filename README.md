@@ -71,4 +71,4 @@ All designs complete, assembly ongoing
 
 Known issues: None, 
 Credits: My father for introducing me to all this. 
-Sanity checked by my lovely best friend & my tech teacher 
+Sanity checked by my lovely best friend 
