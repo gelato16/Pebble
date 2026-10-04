@@ -5,7 +5,7 @@ Pebble originally had a side bar intended for stickers but with more adjustments
 features:
 - 65% QWERTY layout
 - Sandwich style assembly
-- 7U spacebar
+- 6.25U spacebar
 - Plate-mounted switches
 - Custom PCB
 - USB-C connection
