@@ -19,6 +19,8 @@ CAD photos (CAD has since been updated to accomidate standard 6.25u spacebar):
 PCB photos:
 <img width="1106" height="420" alt="Screenshot 2026-10-04 002206" src="https://github.com/user-attachments/assets/ae0c0b1f-ced0-4428-a67e-1a2a63f9ea39" />
 <img width="1376" height="936" alt="Screenshot 2026-09-23 134752" src="https://github.com/user-attachments/assets/c899a03e-4a9b-4658-b632-a7a24c2c175c" />
+<img width="1906" height="686" alt="image" src="https://github.com/user-attachments/assets/921df819-28b6-460f-965a-a5f17abc1b15" />
+<img width="1206" height="836" alt="image" src="https://github.com/user-attachments/assets/a5a65e39-f813-4992-9e18-50e4539f542d" />
 
 assembly guild: 
 1. Solder all parts onto PCB (including capacitors, diodes and hot swap sockets)
