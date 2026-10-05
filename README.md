@@ -67,7 +67,7 @@ https://docs.google.com/spreadsheets/d/1lCmeEfUbG34g1hUgpbVch2w63U2JIJnhS8jueZ3T
 |                               |                                                                                                                         |                                     |             |                                                                                                               |          |                                                                                                   |
 | Total: 245.66                 |                                                                                                                         |                                     |             |                                                                                                               |          |                                                                                                   |
 
-not included in BOM: Soldering iron, Flux, Solder, Wicks, Fume extractor
+not included in BOM: Soldering iron, Flux, Solder, Wicks, Fume extractor -> (will use coins for these), connecting cable (will use one from home)
 
 All designs complete, assembly ongoing
 (designed using Kicad, Solidworks and sketchbook)
